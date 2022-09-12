@@ -1,11 +1,11 @@
-# [HTML CSS Responsive Navbar](https://sajjadsadiq.github.io/single-page-new-page/)
+# [HTML CSS Responsive Navbar](https://sajjadsadiq.github.io/simple-navbar/)
 
 
 ## HTML CSS Simple Responsive Navbar
 
 This project is a html, CSS version.
 
-Check the [Live Demo here](https://sajjadsadiq.github.io/single-page-new-page/).
+Check the [Live Demo here](https://sajjadsadiq.github.io/simple-navbar/).
 
 ### Desktop Version
 ![](desktop.png)
