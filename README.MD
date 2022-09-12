@@ -1,4 +1,4 @@
-# [HTML CSS Responsive Navbar](https://sajjadsadiq.github.io/simple-navbar/)
+# [HTML CSS Responsive Simple Navbar](https://sajjadsadiq.github.io/simple-navbar/)
 
 
 ## HTML CSS Simple Responsive Navbar
