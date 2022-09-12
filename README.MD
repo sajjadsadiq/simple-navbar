@@ -1,7 +1,7 @@
 # [HTML CSS Responsive Navbar](https://sajjadsadiq.github.io/single-page-new-page/)
 
 
-## Use HTML CSS Responsive Navbar
+## HTML CSS Simple Responsive Navbar
 
 This project is a html, CSS version.
 
@@ -11,6 +11,7 @@ Check the [Live Demo here](https://sajjadsadiq.github.io/single-page-new-page/).
 ![](desktop.png)
 
 ### Tablet Version
+![](tablet.png)
 
 ### Mobile Responsive Version
 ![](mobile.png)
